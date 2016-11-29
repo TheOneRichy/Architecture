@@ -304,7 +304,7 @@
 		"oAP": "\/index.html",
 		"oF": 0
 		},
-	"\/index.jade": {
+	"\/index.pug": {
 		"cOD": 1,
 		"ft": 512,
 		"oA": 0,
